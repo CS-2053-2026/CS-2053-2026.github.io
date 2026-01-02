@@ -25,14 +25,18 @@ See: [Grading and Dates](pages/cs2053-grading-dates.md)
 - **Lab Time:** Tuesday - 4:00-5:20pm
 - Gillan Hall: **C112**
 
-## Instructors & Contact
+## Instructors
 - **Instructor:** Dr. Scott Bateman & Colin Brett
-- **Office:** @Home
+- **Office:** Various
 - **Office Hours/Questions/Contact:** 
-   - Email and messaging us on Teams are the most effective ways to get a hold of us.
-   - Appointments are welcomed and encouraged to speak with me if you would like to have a conversation.
-   
-- **Email:** scottb@unb.ca, colin.brett@unb.ca
+   - Messaging us on Teams is the most effective ways to get a hold of us. See link below.
+   - Appointments are welcomed and encouraged to speak with me if you would like to have a conversation. Catching us after class or during the labs is also a good option.
+
+## Contact
+
+- A team message addressed to both instructors is the preferred contact method. You can do this by clicking here: [Chat with instructors](https://teams.microsoft.com/l/chat/0/0?users=scottb@unb.ca,colin.brett@unb.ca)
+- Please allow up to one to two working days for response.
+- Asking questions on Teams may also allow your classmates or TA to help with questions regarding technology or other clarifications. So, this is highly encouraged. Please use the appropriate channel in our class Team for your question.
 
 ## Text Books
 
