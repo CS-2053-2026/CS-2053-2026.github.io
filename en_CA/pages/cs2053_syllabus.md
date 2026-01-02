@@ -13,7 +13,7 @@ Introduces basic concepts and technologies for computer and video game developme
 
 ## Grading and Deliverables
 
-See: [Grading and Dates](pages/cs2053-grading-dates_w2021.md)
+See: [Grading and Dates](pages/cs2053-grading-dates.md)
 
 ## Class Time and Location
 
