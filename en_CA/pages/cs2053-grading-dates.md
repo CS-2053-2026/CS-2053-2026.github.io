@@ -1,12 +1,13 @@
 # CS 2053 - Grading and Dates
 
 ## Marking Scheme
-
- - 15%: Conceptual/Textbook assignments (3)
- - 15%: Lab assignments (6)
- - 25%: Group Project (1)
- - 20%: Lab Exams (2 coding tests)
- - 25%: Final (during exam period)
+| Weight | Item | Number |
+|------|-------|-------|
+ | 15% | Conceptual/Textbook assignments | 3 |
+ | 15% | Lab assignments | 6 | 
+ | 25% | Group Project | 1 |
+ | 20% | Lab Exams (coding tests) | 2 |
+ | 25% | Final (during exam period) | 1 |
 
 ## Assignment Due Dates (subject to change)
 
