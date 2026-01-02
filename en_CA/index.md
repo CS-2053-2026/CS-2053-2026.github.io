@@ -1,4 +1,4 @@
-# CS 2053 - Game Development - Winter 2021
+# CS 2053 - Game Development 
 
 ## Faculty of Computer Science - University of New Brunswick
 
