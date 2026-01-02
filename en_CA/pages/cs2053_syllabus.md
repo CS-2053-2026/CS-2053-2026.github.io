@@ -1,6 +1,6 @@
 # CS2053 - Introduction to Game Development
 
-## 2021 Winter Term
+## 2026 Winter Term
 
 ## Course Description
 
@@ -13,27 +13,26 @@ Introduces basic concepts and technologies for computer and video game developme
 
 ## Grading and Deliverables
 
-See: [Grading and Dates](pages/cs2053-grading-dates_w2021.md)
+See: [Grading and Dates](pages/cs2053-grading-dates.md)
 
 ## Class Time and Location
 
 ### Lectures
 - **Class Time:** MWF - 10:30 - 11:20am
-- On Teams
+- Gillan Hall: **C122**
 
 ### Labs
 - **Lab Time:** Tuesday - 4:00-5:20pm
-- On Teams
+- Gillan Hall: **C112**
 
-## Instructor and Contact
-- **Instructor:** Dr. Scott Bateman
+## Instructors & Contact
+- **Instructor:** Dr. Scott Bateman & Colin Brett
 - **Office:** @Home
 - **Office Hours/Questions/Contact:** 
-   - Email and messaging me on Teams are the most effective ways to get a hold of me.
+   - Email and messaging us on Teams are the most effective ways to get a hold of us.
    - Appointments are welcomed and encouraged to speak with me if you would like to have a conversation.
    
-- **Email:** scottb@unb.ca
-- **Web:** http://hci.cs.unb.ca
+- **Email:** scottb@unb.ca, colin.brett@unb.ca
 
 ## Text Books
 
