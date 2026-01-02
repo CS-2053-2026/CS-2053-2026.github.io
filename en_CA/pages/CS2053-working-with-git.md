@@ -5,7 +5,7 @@ We will be using Git (the distributed source control tool) and GitHub (a fancy w
 Before you get started with the details in this page you should complete the steps in [Software Setup and Requirements page](pages/cs2053-requirements-and-setup.md).
 
 ## Create and Register a GitHub Account
-You will need a GitHub Account. Please see these instructions: [To create and register your GitHub account](https://cs-2053-winter-2021.github.io/en_CA/#!pages/cs2053-requirements-and-setup.md)
+You will need a GitHub Account. Please see these instructions: [To create and register your GitHub account](https://cs-2056.github.io/en_CA/#!pages/cs2053-requirements-and-setup.md)
 
 When using Git we ask that you follow these instructions below carefully, and only stray from them if you know what you are doing. 
 
