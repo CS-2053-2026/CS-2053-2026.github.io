@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# CS 2053 - Winter 2021
+# CS 2053 - Winter 2026
 
 <!--
   -- Default theme
@@ -17,8 +17,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Syllabus](pages/cs2053_syllabus_w2021.md)
-[Grading and Dates](pages/cs2053-grading-dates_w2021.md)
+[Syllabus](pages/cs2053_syllabus.md)
+[Grading and Dates](pages/cs2053-grading-dates.md)
 [Software Setup](pages/cs2053-requirements-and-setup.md)
 [Using Git and GitHub](pages/CS2053-working-with-git.md)
 
