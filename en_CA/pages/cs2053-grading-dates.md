@@ -45,12 +45,13 @@
 | 04/06 | Final Project and Video |
 
 ## Important University Dates
-
-- Jan. 16 - Last Drop date without charge
-- Monday, Feb 16 - NB Family Day - University Holiday - no classes
-- Feb. 20 - Last Drop date without pro-rated refund
-- Mar. 2--6 - Reading week
-- Mar. 9 - Last day to withdraw without academic penalty
-- Mar. 26 - Last day to hold tests
-- Apr. 3--6 - Easter Holiday - No classes
-- Apr. 13 - Last day of classes 
+| Date | Item |
+|------|-------|
+| Jan. 16 | Last Drop date without charge|
+| Feb. 16 | NB Family Day - University Holiday - no classes |
+| Feb. 20 | Last Drop date without pro-rated refund |
+| Mar. 2--6 | Reading week |
+| Mar. 9 | Last day to withdraw without academic penalty |
+| Mar. 26 | Last day to hold tests
+| Apr. 3--6 | Easter Holiday - No classes |
+| Apr. 13 | Last day of classes | 
