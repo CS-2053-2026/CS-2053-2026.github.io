@@ -1,57 +1,143 @@
-# Using Git for Example Code and Assignments
+# Using Git for Labs and Assignments
 
-We will be using Git (the distributed source control tool) and GitHub (a fancy website that provides tools and hosting for Git code repositories) for completing assignments, doing your course project and doing the lab exams. Git is a very powerful tool, but the way we will use it for the course will be quite simple. In all cases, repositories will be created for you and you will "clone" the repositories to get started.
+We will be using [Git](https://git-scm.com/) for accessing example code and submitting assignments. Git is a very powerful tool, but the way we will use it for the course will be quite simple. In all cases, repositories will be created for you and you will "clone" the repositories to get started. Git is installed on the lab computers, but will need to ne installed if using your own.
+
+We ask that you follow these below carefully, and only stray from them if you know what you are doing. There are lots of great git learning resources online, like the free [Pro Git Book](https://git-scm.com/book/en/v2).
 
 Before you get started with the details in this page you should complete the steps in [Software Setup and Requirements page](pages/cs2053-requirements-and-setup.md).
 
-## Create and Register a GitHub Account
-You will need a GitHub Account. Please see these instructions: [To create and register your GitHub account](https://cs-2056.github.io/en_CA/#!pages/cs2053-requirements-and-setup.md)
+## Your GitHub Account
 
-When using Git we ask that you follow these instructions below carefully, and only stray from them if you know what you are doing. 
+You are required to have a GitHub account for this course.
 
-## Completing Assignments and Lab Exams
+You can create a [new Github account here](https://github.com/signup) or use an existing Github account.
 
-Assignments and lab exams will be hosted and submitted on GitHub. You will need to follow the instructions below and we will record an example of how to do this for you during our first lab, which will be posted to our [Course Videos on Streams](https://web.microsoftstream.com/channel/8661cb6d-aa10-4b66-8ccb-fafdfd06081b). 
+When using Git we ask that you follow these instructions below carefully, and only stray from them if you know what you are doing.
 
-## Starting a Lab Assignment or Lab Exam by Cloning a Repository
-These steps will be repeated for Lab Exams and Lab Assignments:
+## Accessing Repos for the Class Activities
 
-1. For assignments you will be provided a repository invitation link.
-2. You will follow the link, login to GitHub (if not already logged in) and accept the invitation.
-3. This will create a new repository for you and a link will be provided for a repository that has been automatically created on your account.
-   1. This repo provides you with all of the details and instructions for completing your work.
-   2. You can follow the link to your repo to view it.
-4. Open GitHub Desktop and Click "File -> Clone Repository"
-5. Make sure that "GitHub.com" is selected at the top, and filter by typing in the name of your repo... For example, "Lab-Assignment-1" (without the quotes).
-6. Select your repo from the list and choose a place on your local drive to "clone it to" (i.e., download it), and click "Clone".
-7. Once cloned your newly cloned repository should be selected in your list under "Current Repository" in GitHub Desktop. You can change your selection in that list. If you need to work with different projects.
-   1. Your repos for coursework will be private and should not be shared with any other students in the class. They are accessible by the instructor and TAs.
-8. Once cloned you can open your repository in Unity. Open Unity Hub, make sure "Projects" is selected on the left hand menu, and click "Add". Navigate to the location on your computer where you cloned your repository to and click "Select Folder" on the top level directory of the project repo.
-9. Next, select the "Unity Version" for your project. It should be the latest 2019.4.xx 
-10. Finally, click on your project in the list to open it.
-    1.  You can complete your work as normal, following the provided instructions. 
+Each of the class's activities and projects will be hosted on GitHub, and you will be provided with an invite link via D2L to each as they become available.
 
-## Submitting Your Lab Assignment or Lab Exam - "committing" and "pushing" your code
+After accepting the invite to the repo in question, a fork (new copy) of that repo will be made for you to use.
+For example, accepting `https://github.com/CS-2053-2026/Project_1` a new repo called `https://github.com/CS-3035-2024/Project_1-YourUserName` will be created for you.
 
-GitHub provides you with a lot of flexibility with how you can complete your work. However, we will use it in a very simple way... and just "commit" your changes to your local repository, and "pushing" your commits to GitHub.
+Only you, the instructors, and TAs will have access to your repos.
+
+### Accessing and Modfying those Repos with Git
+
+There are many ways to interact with Git, but for the purposes of this course, we recomend one of 2 options:
+
+1.  **CLI** - You can interact with git directly through your terminal. See the basics [here](https://git-scm.com/cheat-sheet).
+2.  **Github Desktop** - GitHub provides an easy [GUI interface](https://desktop.github.com/download/) (for mac and windows) which works as well.
+
+## Submitting Your Work – _Committing_ and _Pushing_ Your Code
+
+GitHub gives you a lot of flexibility in how you manage your work.  
+For this course, we will use it in a **very simple and consistent way**:
+
+- You **commit** your changes locally
+- You **push** those commits to GitHub
+
+  **Both steps are required.**  
+  If you commit but do not push, your work stays on your computer and **will not be visible to the instructors**.
 
 ### Committing
 
-1. First you must commit any changes you have. Open GitHub Desktop and make sure you have the correct repository selected under "current repository"
-2. Once selected, confirm that all changes you have made are listed under the changes. You can inspect the contents of the files and their difference from previous versions, by selecting them in the "changed files" list.
-3. Once you are satisfied, type in a short summary that describes your changed and click "Commit".
-   1. Note you can commit as frequently as you like. This stores all incremental changes since the last commit locally on your computer (but not on GitHub)
-4. Next you will need to Push your code to store it on the GitHub website so that it can be saved off of your computer and be accessible for grading.
+Committing takes the changes you have made and **records a snapshot** of them in your local repository.  
+Think of a commit as a save point with a message explaining what changed.
+
+#### CLI
+
+1. Open a terminal in your project directory.
+2. Check which files have changed:
+
+```bash
+git status
+```
+
+3. Stage your changes:
+
+```bash
+git add .
+```
+
+> This stages **all** changed files. You can also stage individual files if needed.
+
+4. Commit your changes with a short, clear message:
+
+```bash
+git commit -m "Brief description of your changes"
+```
+
+You can commit as often as you like.  
+Commits are **local only** until you push them to GitHub.
+
+#### GH Desktop
+
+1. Make sure you have the correct repository selected under **Current Repository**.
+2. Confirm that all the changes you want to submit appear under **Changes**.
+3. Enter a short summary describing what you changed.
+4. Click **Commit to main** (or the current branch).
+
+> Commit early, commit often. This creates a clear history and protects you from losing work.
 
 ### Pushing Your Code
 
-You can also "push" code as frequently as you like to GitHub. This allows you to store all of your work and commit history to the "cloud".
+Pushing uploads your local commits to GitHub so they are backed up and available for grading.
 
-For assignments and lab exams, we will grade only the most recent version of your code posted to GitHub before the deadline (unless otherwise agreed upon).
+For assignments and lab exams, **only the most recent version pushed to GitHub before the deadline will be graded** (unless otherwise specified).
 
-1. Make sure you have your project selected in GitHub Desktop and you have "committed" all your work (see steps listed above).
-2. In the main window click the "Push origin" button. 
-3. Your code should now be uploaded and stored on GitHub. To be safe it is always good practice that you can view your latest commits on the GitHub website to make sure everything as worked as intended.
+#### CLI
 
-## More Details on How to Use Git
-There are lots of great Git learning resources online like the free [Pro Git Book](https://git-scm.com/book/en/v2), if you would like to know more about how to use Git.
+After committing:
+
+```bash
+git push
+```
+
+If this is your first push, you may be prompted to authenticate with GitHub.
+This means you will need to set your email and username for verification. You only need to do so once on any machine you use, and you can do so via these commands:
+
+- `git config --global user.email *your@githubemailaddress.com*`
+- `git config --global user.name *yourGithubUsername*`
+
+#### GH Desktop
+
+1. Make sure all your work is committed.
+2. Click **Push origin** at the top of the window.
+3. Wait for the push to complete.
+
+**Always double-check** by visiting the GitHub website and confirming that your latest commit appears there.
+
+### Pulling Changes
+
+Pulling retrieves changes from GitHub and merges them into your local repository.  
+You may need this when:
+
+- Working on multiple computers
+- Collaborating with others
+- An instructor has pushed additional code or fixes
+
+#### CLI
+
+```bash
+git pull
+```
+
+If you have uncommitted changes, Git may refuse to pull. Commit first.
+
+#### GH Desktop
+
+1. Open the correct repository.
+2. Click **Fetch origin**.
+3. If updates are available, click **Pull origin**.
+
+### Final Checklist Before Submission
+
+Before the deadline, make sure:
+
+- ✅ You committed your changes
+- ✅ You pushed your commits to GitHub
+- ✅ You can see your latest commit on the GitHub website
+
+If it’s not on GitHub, **it doesn’t exist for grading**.

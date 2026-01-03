@@ -9,7 +9,7 @@
  | 20% | Lab Exams (coding tests) | 2 |
  | 25% | Final (during exam period) | 1 |
 
-## Assignment Due Dates (subject to change)
+## Assignment Due Dates (Subject to change)
 
 ***Note: All dates are tentative***
 
