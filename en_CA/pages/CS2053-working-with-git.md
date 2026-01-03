@@ -52,19 +52,10 @@ Think of a commit as a save point with a message explaining what changed.
 
 1. Open a terminal in your project directory.
 2. Check which files have changed:
-
-```bash
-git status
-```
-
+    ```bash git status ```
 3. Stage your changes:
-
-```bash
-git add .
-```
-
+    ```bash git add . ```
 > This stages **all** changed files. You can also stage individual files if needed.
-
 4. Commit your changes with a short, clear message:
 
 ```bash
