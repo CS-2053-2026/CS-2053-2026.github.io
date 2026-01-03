@@ -1,5 +1,7 @@
 # Using Git for Labs and Assignments
 
+## Git Version Control
+
 We will be using [Git](https://git-scm.com/) for accessing example code and submitting assignments. Git is a very powerful tool, but the way we will use it for the course will be quite simple. In all cases, repositories will be created for you and you will "clone" the repositories to get started. Git is installed on the lab computers, but will need to ne installed if using your own.
 
 We ask that you follow these below carefully, and only stray from them if you know what you are doing. There are lots of great git learning resources online, like the free [Pro Git Book](https://git-scm.com/book/en/v2).
