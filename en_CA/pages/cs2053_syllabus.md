@@ -67,10 +67,6 @@ Introduction to Game Development (2nd Edition), by Steve Rabin (Editor), Course 
 
 ## Class Policies
 
-### Attendance
-Attendance is important but not enforced. No attendance will be taken, however, attendance is essential to your successful completion of the course. Your instructor appreciates being notified about your absences in advance, when a valid excuse (e.g., sick, medical appointment, etc.).
-## Class Policies
-
 All students must be registered to attend lectures and receive credit for this course.
 
 ### Attendance
