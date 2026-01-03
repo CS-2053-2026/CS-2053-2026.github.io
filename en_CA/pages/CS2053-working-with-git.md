@@ -21,7 +21,7 @@ When using Git we ask that you follow these instructions below carefully, and on
 Each of the class's activities and projects will be hosted on GitHub, and you will be provided with an invite link via D2L to each as they become available.
 
 After accepting the invite to the repo in question, a fork (new copy) of that repo will be made for you to use.
-For example, accepting `https://github.com/CS-2053-2026/Project_1` a new repo called `https://github.com/CS-3035-2024/Project_1-YourUserName` will be created for you.
+For example, accepting `https://github.com/CS-2053-2026/Project_1` a new repo called `https://github.com/CS-2053-2026/Project_1-YourUserName` will be created for you.
 
 Only you, the instructors, and TAs will have access to your repos.
 
