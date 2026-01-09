@@ -134,3 +134,34 @@ Before the deadline, make sure:
 - ✅ You can see your latest commit on the GitHub website
 
 If it’s not on GitHub, **it doesn’t exist for grading**.
+
+---
+
+## Lab Computer GitHub Authentication Fix
+### Installing and using GitHub CLI *(gh)*
+
+> don't forget to change `StuNum` to your Student number, and check your filepaths!
+
+1.  Download the [GitHub CLI tarball](https://github.com/cli/cli/releases/download/v2.83.2/gh_2.83.2_linux_386.tar.gz)
+2.  Extract and open it. *(Double click should work)*
+3.  Move the `gh` executable from the extracted folder to your home directory.
+    1.  From: /home1/ugrads/`StuNum`/Downloads/gh_2.83.2_linux_386/**bin/gh**
+    2.  To: /home1/ugrads/`StuNum`/**bin/gh**
+4. Open your **terminal** and add `gh` to Your PATH
+   1. Open your .**bashrc** file: ```nano ~/.bashrc```
+   2. **Add** this line at the bottom: 	```export PATH="$PATH://home1/ugrads/`StuNum`/bin/gh```
+   3. Press `Ctrl+X`, then `Y` (for Yes) to save, and `Enter` to confirm the filename.
+5. Close your **terminal** completely and open a new one.
+6. Authenticate with **GitHub**
+   1. ```gh auth login```
+   2. Choose: `GitHub.com`, `HTTPS`, `Login with web browser`
+   3. Copy your **single use code**.
+   4. Press Enter to open GitHub in your browser
+   5. Log in
+   6. Paste the code
+   7. Confirm
+7. Close your **terminal** completely and open a new one. Again.
+8. That Should be it. Test by cloning a Repository. (using `gh` not `git`)
+   1. That looks like `gh repo clone OWNER/REPO`
+   2. For example: `gh repo clone CS-2053-2026/Labs`
+9. If it works — you’re done 🎉
