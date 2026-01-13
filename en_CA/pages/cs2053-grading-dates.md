@@ -15,14 +15,14 @@
 
 | Date | Item |
 |------|-------|
-| 01/21| Lab Assignment 1 |
-| 01/28| Lab Assignment 2 |
+| 01/19| Lab Assignment 1 |
+| 01/26| Lab Assignment 2 |
 | 02/02| Concept Assignment 1 |
-| 02/04| Lab Assignment 3 |
-| 02/11| Lab Assignment 4 |
-| 02/18| Lab Assignment 5 |
+| 02/02| Lab Assignment 3 |
+| 02/09| Lab Assignment 4 |
+| 02/16| Lab Assignment 5 |
 | 02/23| Concept Assignment 2 |
-| 03/11| Lab Assignment 6 |
+| 03/09| Lab Assignment 6 |
 | 03/26| Concept Assignment 3 |
 
 ## Test Dates (Subject to change)
