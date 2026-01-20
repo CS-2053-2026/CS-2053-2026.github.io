@@ -19,7 +19,7 @@ See: [Grading and Dates](pages/cs2053-grading-dates.md)
 
 ### Lectures
 - **Class Time:** MWF - 10:30 - 11:20am
-- Gillan Hall: **C122**
+- Head Hall: HC-09 ~~Gillan Hall: **C122**~~
 
 ### Labs
 - **Lab Time:** Tuesday - 4:00-5:20pm
