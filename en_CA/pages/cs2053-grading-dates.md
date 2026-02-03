@@ -17,9 +17,9 @@
 |------|-------|
 | 01/19| Lab Assignment 1 |
 | 01/26| Lab Assignment 2 |
-| 02/02| Concept Assignment 1 |
 | 02/02| Lab Assignment 3 |
 | 02/09| Lab Assignment 4 |
+| 02/13| Concept Assignment 1 |
 | 02/16| Lab Assignment 5 |
 | 02/23| Concept Assignment 2 |
 | 03/09| Lab Assignment 6 |
@@ -41,6 +41,7 @@
 
 | Date | Test |
 |------|-------|
+| 02/13 | Group Registration |
 | 02/20 | Project Proposal |
 | 04/06 | Final Project and Video |
 
