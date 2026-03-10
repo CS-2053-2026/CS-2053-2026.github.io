@@ -22,7 +22,7 @@
 | 02/13| Concept Assignment 1 |
 | 02/16| Lab Assignment 5 |
 | 02/23| Concept Assignment 2 |
-| 03/09| Lab Assignment 6 |
+| 03/23| Lab Assignment 6 |
 | 03/26| Concept Assignment 3 |
 
 ## Test Dates (Subject to change)
@@ -43,7 +43,7 @@
 |------|-------|
 | 02/13 | Group Registration |
 | 02/20 | Project Proposal |
-| 04/06 | Final Project and Video |
+| 04/07 | Final Project and Video |
 
 ## Important University Dates
 | Date | Item |
